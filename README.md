@@ -1,5 +1,3 @@
-# 🚀 CodeCraft Compass
-
 # 🧭 CodeCraft Compass
 
 [![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://vitejs.dev)
