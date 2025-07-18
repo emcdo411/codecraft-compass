@@ -95,6 +95,24 @@ git clone https://github.com/emcdo411/codecraft-compass.git
 cd codecraft-compass
 npm install
 npm run dev
+
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v18+)
+- npm (v9+)
+
+### Steps
+
+```bash
+git clone https://github.com/emcdo411/codecraft-compass.git
+cd codecraft-compass
+npm install
+npm run dev
 ````
 
 ---
@@ -112,7 +130,8 @@ This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
 
 ```
-
+🎓 MSSA Cohort Credit
+Special thanks to the Microsoft Software & Systems Academy (MSSA) for inspiring this application as part of the Cloud Application Development cohort. This project demonstrates how code mentoring tools and AI can shape the next wave of developer education.
 ---
 
 Let me know when you're ready for the next step:
@@ -120,3 +139,9 @@ Let me know when you're ready for the next step:
 ✅ AI mock logic  
 ✅ `.bat` script for 1-click setup and push
 ```
+
+Let me know when you're ready to add:
+- 🧠 AI mock logic section
+- ⚙️ `.bat` file automation steps
+- 🌐 Deployment guide
+- 📢 A LinkedIn launch post in your voice  
