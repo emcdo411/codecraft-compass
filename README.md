@@ -55,7 +55,6 @@
 
 ## 🔄 CodeCraft Compass Workflow
 
-```mermaid
 graph TD
     A[User Launches App] --> B[App.tsx]
     B --> C[AppLayout.tsx]
