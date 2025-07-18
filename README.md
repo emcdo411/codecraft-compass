@@ -70,7 +70,6 @@ codecraft-compass/
 ├── tsconfig.node.json
 ├── vite.config.ts
 └── README.md
-
 ````
 ## 🔄 CodeCraft Compass Workflow
 
@@ -82,11 +81,10 @@ graph TD
     D --> E[FeatureCard.tsx]
     D --> F[UI Components]
     E --> G[User Clicks Feature]
-    G --> H[AI Logic Trigger (future)]
-    H --> I[Context + Hooks]
+    G --> H[AI Logic Trigger - future]
+    H --> I[Context and Hooks]
     I --> J[App Updates or Suggests Code]
 
----
 
 ## 🧠 Why This Matters
 
