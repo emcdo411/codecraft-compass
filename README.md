@@ -51,20 +51,6 @@
 ![Vite Plugin React](https://img.shields.io/badge/-@vitejs/plugin--react-646CFF?style=flat-square)
 
 ---
----
-
-## 🔄 CodeCraft Compass Workflow
-
-graph TD
-    A[User Launches App] --> B[App.tsx]
-    B --> C[AppLayout.tsx]
-    C --> D[HomePage.tsx]
-    D --> E[FeatureCard.tsx]
-    D --> F[UI Components]
-    E --> G[User Clicks Feature]
-    G --> H[AI Logic Trigger (future)]
-    H --> I[Context + Hooks]
-    I --> J[App Updates or Suggests Code]
 
 ## 📁 Folder Structure
 
@@ -86,6 +72,19 @@ codecraft-compass/
 └── README.md
 
 ````
+## 🔄 CodeCraft Compass Workflow
+
+```mermaid
+graph TD
+    A[User Launches App] --> B[App.tsx]
+    B --> C[AppLayout.tsx]
+    C --> D[HomePage.tsx]
+    D --> E[FeatureCard.tsx]
+    D --> F[UI Components]
+    E --> G[User Clicks Feature]
+    G --> H[AI Logic Trigger (future)]
+    H --> I[Context + Hooks]
+    I --> J[App Updates or Suggests Code]
 
 ---
 
