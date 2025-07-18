@@ -51,20 +51,6 @@
 ![Vite Plugin React](https://img.shields.io/badge/-@vitejs/plugin--react-646CFF?style=flat-square)
 
 ---
-# 🗭 CodeCraft Compass
-
-[![Build](https://img.shields.io/badge/build-passing-brightgreen)](https://vitejs.dev)
-[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Repo Size](https://img.shields.io/github/repo-size/emcdo411/codecraft-compass)](https://github.com/emcdo411/codecraft-compass)
-[![Last Commit](https://img.shields.io/github/last-commit/emcdo411/codecraft-compass)](https://github.com/emcdo411/codecraft-compass/commits/main)
-[![React](https://img.shields.io/badge/React-v18.2.0-61DAFB?logo=react\&logoColor=white)](https://react.dev)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.3.3-3178C6?logo=typescript\&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind](https://img.shields.io/badge/TailwindCSS-3.4.1-38BDF8?logo=tailwindcss\&logoColor=white)](https://tailwindcss.com/)
-[![Vite](https://img.shields.io/badge/Vite-4.5.0-646CFF?logo=vite\&logoColor=white)](https://vitejs.dev)
-[![Issues](https://img.shields.io/github/issues/emcdo411/codecraft-compass)](https://github.com/emcdo411/codecraft-compass/issues)
-[![Stars](https://img.shields.io/github/stars/emcdo411/codecraft-compass?style=social)](https://github.com/emcdo411/codecraft-compass/stargazers)
-
----
 
 ## 📚 Table of Contents
 
